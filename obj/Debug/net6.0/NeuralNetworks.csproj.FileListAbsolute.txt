@@ -1,0 +1,15 @@
+C:\Users\Downtown\OneDrive\Desktop\Projects\NeuralNetworks\bin\Debug\net6.0\NeuralNetworks.exe
+C:\Users\Downtown\OneDrive\Desktop\Projects\NeuralNetworks\bin\Debug\net6.0\NeuralNetworks.deps.json
+C:\Users\Downtown\OneDrive\Desktop\Projects\NeuralNetworks\bin\Debug\net6.0\NeuralNetworks.runtimeconfig.json
+C:\Users\Downtown\OneDrive\Desktop\Projects\NeuralNetworks\bin\Debug\net6.0\NeuralNetworks.dll
+C:\Users\Downtown\OneDrive\Desktop\Projects\NeuralNetworks\bin\Debug\net6.0\NeuralNetworks.pdb
+C:\Users\Downtown\OneDrive\Desktop\Projects\NeuralNetworks\obj\Debug\net6.0\NeuralNetworks.csproj.AssemblyReference.cache
+C:\Users\Downtown\OneDrive\Desktop\Projects\NeuralNetworks\obj\Debug\net6.0\NeuralNetworks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Downtown\OneDrive\Desktop\Projects\NeuralNetworks\obj\Debug\net6.0\NeuralNetworks.AssemblyInfoInputs.cache
+C:\Users\Downtown\OneDrive\Desktop\Projects\NeuralNetworks\obj\Debug\net6.0\NeuralNetworks.AssemblyInfo.cs
+C:\Users\Downtown\OneDrive\Desktop\Projects\NeuralNetworks\obj\Debug\net6.0\NeuralNetworks.csproj.CoreCompileInputs.cache
+C:\Users\Downtown\OneDrive\Desktop\Projects\NeuralNetworks\obj\Debug\net6.0\NeuralNetworks.dll
+C:\Users\Downtown\OneDrive\Desktop\Projects\NeuralNetworks\obj\Debug\net6.0\refint\NeuralNetworks.dll
+C:\Users\Downtown\OneDrive\Desktop\Projects\NeuralNetworks\obj\Debug\net6.0\NeuralNetworks.pdb
+C:\Users\Downtown\OneDrive\Desktop\Projects\NeuralNetworks\obj\Debug\net6.0\NeuralNetworks.genruntimeconfig.cache
+C:\Users\Downtown\OneDrive\Desktop\Projects\NeuralNetworks\obj\Debug\net6.0\ref\NeuralNetworks.dll
