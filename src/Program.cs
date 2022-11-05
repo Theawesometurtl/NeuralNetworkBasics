@@ -4,5 +4,5 @@ Interface interfaace = new Interface();
 interfaace.SayHello();
 Network coolCode = new Network();
 int[] inputs = {1};
-int[] result = coolCode.Run(inputs);
+int[] result = coolCode.Run(inputs, 0);
 Console.WriteLine(result[0]);
