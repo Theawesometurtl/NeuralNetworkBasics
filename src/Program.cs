@@ -3,3 +3,5 @@ Console.WriteLine("Hello, World!");
 
 Interface interfaace = new Interface();
 interfaace.SayHello();
+Network coolCode = new Network();
+coolCode.Run();
